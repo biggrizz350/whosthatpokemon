@@ -1,0 +1,18 @@
+.blur {
+    filter: blur(4px);
+  }
+  
+  .highlight {
+    background-color: green;
+  }
+  
+  .wrong {
+    background-color: red;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+  }
